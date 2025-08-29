@@ -1,0 +1,15 @@
+# build artifacts
+bin/
+
+# runtime junk
+out.txt
+*.log
+*.tmp
+
+# editor/IDE
+.vscode/
+
+# common temp files
+*.swp
+*.swo
+*~
