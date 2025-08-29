@@ -1,4 +1,4 @@
-# MiniShell (C++20)
+# Custom POSIX Shell
 
 A small Linux-like shell built in C++ that supports pipelines, I/O redirection, background execution, history, minimal job control, and resource limits — implemented with POSIX primitives.
 
